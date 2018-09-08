@@ -3,3 +3,4 @@
 *.DB-wal
 *.exe
 *.obj
+.vscode
